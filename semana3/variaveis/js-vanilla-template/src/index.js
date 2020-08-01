@@ -49,10 +49,4 @@ let cidade = prompt("Qual é sua cidade favorito?")
 
 console.log(cidade) 
 
-// no console apareceu todas respostas que foi digitada na caixa de msg //*/ 
-
-
-
-
-
-
+// no console apareceu todas respostas que foi digitada na caixa de msg //
